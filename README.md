@@ -1,5 +1,5 @@
 # Spendwise
-A budget tracking application to a better asset management.
+A budget tracking application for a better asset management.
 
 <h3>Application overview:<h3>
 
